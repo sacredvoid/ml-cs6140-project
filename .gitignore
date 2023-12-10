@@ -67,9 +67,10 @@ example_test_files/
 *.cfg
 *.conf
 *.yaml
-*.yml
 
 # Ignore API keys and secrets
 .env
 *.env
 .env.*
+
+catboost_info/

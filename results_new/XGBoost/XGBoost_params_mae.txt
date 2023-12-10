@@ -1,0 +1,2 @@
+{'xgbregressor__colsample_bytree': 1.0, 'xgbregressor__learning_rate': 0.01, 'xgbregressor__max_depth': 3, 'xgbregressor__n_estimators': 150, 'xgbregressor__subsample': 0.8}
+8.860061836242675

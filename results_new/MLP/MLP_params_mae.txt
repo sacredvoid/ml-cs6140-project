@@ -1,0 +1,2 @@
+{'mlpregressor__activation': 'tanh', 'mlpregressor__hidden_layer_sizes': (100,), 'mlpregressor__max_iter': 500}
+10.100630950927734
