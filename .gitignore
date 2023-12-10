@@ -68,6 +68,8 @@ example_test_files/
 *.conf
 *.yaml
 
+results_new\ARIMA\*.pkl
+
 # Ignore API keys and secrets
 .env
 *.env
